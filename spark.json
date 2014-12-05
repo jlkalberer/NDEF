@@ -2,6 +2,6 @@
   "name": "NDEF",
   "author": "Don Coleman",
   "license": "BSD License",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "NDEF Library for Arduino"
 }
