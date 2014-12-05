@@ -1,0 +1,7 @@
+{
+  "name": "NDEF",
+  "author": "Don Coleman",
+  "license": "BSD License",
+  "version": "0.0.10",
+  "description": "NDEF Library for Arduino"
+}
